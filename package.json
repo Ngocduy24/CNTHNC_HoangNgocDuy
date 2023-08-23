@@ -4,7 +4,9 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "start": "nodemon start.js",
+    "bai1": "nodemon bai1.js",
+    "start": "nodemon basic_routing.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
